@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-qaapp-dev-155212-authRole",
+      "UnauthRoleArn": "arn:aws:iam::249427244591:role/amplify-qaapp-dev-155212-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::249427244591:role/amplify-qaapp-dev-155212-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-qaapp-dev-155212-deployment",
+      "UnauthRoleName": "amplify-qaapp-dev-155212-unauthRole",
+      "StackName": "amplify-qaapp-dev-155212",
+      "StackId": "arn:aws:cloudformation:us-east-1:249427244591:stack/amplify-qaapp-dev-155212/b36d5ba0-a0d9-11ee-a461-0e4753f224a7",
+      "AmplifyAppId": "d23xmt6nv6pacv"
+    },
+    "categories": {
+      "auth": {
+        "qaapp1a4776e9": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d23xmt6nv6pacv",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
